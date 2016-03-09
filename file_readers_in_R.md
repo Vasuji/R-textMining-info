@@ -1,5 +1,5 @@
 
-### text file reader by file connection R{base}
+#### Text file reader by file connection R{base}
 
   - https://stat.ethz.ch/R-manual/R-devel/library/base/html/connections.html
   
