@@ -1,4 +1,6 @@
 
+### Word counter
+```
 word_count<-function(txt_doc){
   
   
@@ -43,5 +45,5 @@ word_count<-function(txt_doc){
 
 word_count("en_US.twitter.txt")
 
-
+```
 
