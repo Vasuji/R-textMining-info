@@ -18,3 +18,11 @@ morning$
 ```
 ^[0-9][a-zA-Z],^[a-z],^[0-9] etc.
 ```
+- 6. Character Class with [],ending not with "?" or "."
+```
+[^?.]$
+```
+- 7. Any character
+```
+"."
+```
