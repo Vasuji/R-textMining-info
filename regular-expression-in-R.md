@@ -54,10 +54,7 @@ flood|fire  => "flood" or "Fire" anywhere in the line
 ```
 - 13
 ```
+^s(.*)s => start with "s" and end with "s". "*" are greedy!
+^s(.*?)s$ => turn off greedyness 
 ```
-- 14
-```
-```
-- 15
-```
-```
+
