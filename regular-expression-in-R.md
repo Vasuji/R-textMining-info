@@ -26,8 +26,10 @@ morning$
 ```
 "."
 ```
-- 8.
+- 8. More Metacharacters
 ```
+flood|fire
+^[Gg]ood|[Bb]ad   => "G/good" at begining or "bad" anywhere
 ```
 - 9
 ```
