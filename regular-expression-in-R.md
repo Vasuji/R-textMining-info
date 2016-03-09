@@ -10,3 +10,11 @@ morning$
 ```
 [Bb][Uu][Hh]
 ```
+- 4. Both allowed at begining of line
+```
+^[Ii] am
+```
+- 5. Character range
+```
+^[0-9][a-zA-Z]
+```
