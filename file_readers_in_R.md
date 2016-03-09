@@ -57,7 +57,7 @@ readLines(Tfile)
 close(Tfile)
 ```
 
-### Not run: ## fifo example -- may hang even with OS support for fifos
+#### fifo example -- may hang even with OS support for fifos
 ```
 if(capabilities("fifo")) {
   zz <- fifo("foo-fifo", "w+")
