@@ -28,7 +28,7 @@ morning$
 ```
 - 8. More Metacharacters
 ```
-flood|fire
+flood|fire  => "flood" or "Fire" anywhere in the line
 ^[Gg]ood|[Bb]ad   => "G/good" at begining or "bad" anywhere
 [Gg]eorgr( [Ww]\.)? [Bb]ush => "George" and then "W/w" is optional and then "B/bush"
 ```
