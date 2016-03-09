@@ -16,5 +16,5 @@ morning$
 ```
 - 5. Character range
 ```
-^[0-9][a-zA-Z]
+^[0-9][a-zA-Z],^[a-z],^[0-9] etc.
 ```
