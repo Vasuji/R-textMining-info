@@ -5,6 +5,8 @@
   - 
  ```
 con <- file("en_US.twitter.txt", "r")
+
 readLines(con, 10)
+
 close(con) 
 ```
