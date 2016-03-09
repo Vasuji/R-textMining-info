@@ -45,8 +45,9 @@ flood|fire  => "flood" or "Fire" anywhere in the line
 [Bb]ush( +[^ ]+ +){1,5} debate => Bush - atleast one space - followed by somthing that not space - 
 - followed by atleast one space - that has to happen 1 to 5 times (like word space word) - debate
 ```
-- 12
+- 12 Replication of perticular phrase/word
 ```
++([a-zA-Z]+) +\1 +
 ```
 - 13
 ```
