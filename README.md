@@ -6,6 +6,8 @@
  - https://www.jstatsoft.org/article/view/v025i05
  - https://cran.r-project.org/web/views/NaturalLanguageProcessing.html
  - http://rstudio-pubs-static.s3.amazonaws.com/39014_76f8487a8fb84ed7849e96846847c295.html
+ - http://shiffman.net/teaching/a2z/generate/#ngrams
+ - https://cran.r-project.org/web/packages/ngram/vignettes/ngram-guide.pdf
  
 ### Stanford University Lecture : Natural Language Processing
  - https://www.coursera.org/course/nlp
