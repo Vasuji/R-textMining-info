@@ -29,3 +29,25 @@ This course will be separated into 8 different tasks that cover the range of act
     Creative exploration
     Creating a data product
     Creating a short slide deck pitching your product
+
+
+
+
+### STD list
+ - http://rpubs.com/Bany/ds_milestone
+ - http://rpubs.com/halibeiki/16279std-2
+ - http://rpubs.com/aadityauppal/162808
+ - http://rpubs.com/ThomasMey123/DataScienceCapStoneMilestoneReport
+ - https://github.com/ThomasMey123/DataScienceCapStone
+ - http://www.rdatamining.com/docs/twitter-analysis-with-r
+ - http://rpubs.com/Ana68/162863
+ - http://rpubs.com/jhooge/predictive_language_model
+ - http://rpubs.com/mezzilime/16288
+ - http://rpubs.com/wsfee77/Milestone
+ - http://rpubs.com/mezzilime/162887
+ - http://rpubs.com/senthilvkumar/162899
+ - http://rpubs.com/vishalaro/162886
+ 
+
+
+
