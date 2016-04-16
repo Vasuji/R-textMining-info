@@ -8,6 +8,8 @@
  - http://rstudio-pubs-static.s3.amazonaws.com/39014_76f8487a8fb84ed7849e96846847c295.html
  - http://shiffman.net/teaching/a2z/generate/#ngrams
  - https://cran.r-project.org/web/packages/ngram/vignettes/ngram-guide.pdf
+ - ppt-https://rpubs.com/pr9115 (https://rpubs.com/pr9115/136462)
+ - https://wrathematics.shinyapps.io/ngram/
  
 ### Stanford University Lecture : Natural Language Processing
  - https://www.coursera.org/course/nlp
