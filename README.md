@@ -50,6 +50,6 @@ This course will be separated into 8 different tasks that cover the range of act
  - http://rpubs.com/senthilvkumar/162899
  - http://rpubs.com/vishalaro/162886
  
-
-
+### Follow this
+- https://rpubs.com/nierhoff/cdsc
 
