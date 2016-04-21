@@ -52,4 +52,5 @@ This course will be separated into 8 different tasks that cover the range of act
  
 ### Follow this
 - https://rpubs.com/nierhoff/cdsc
+- http://apps.nierhoff.info/cdsc/
 
