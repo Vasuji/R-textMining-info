@@ -54,3 +54,14 @@ This course will be separated into 8 different tasks that cover the range of act
 - https://rpubs.com/nierhoff/cdsc
 - http://apps.nierhoff.info/cdsc/
 
+### Final -Capston-std -list
+- https://philferriere.shinyapps.io/WordPredictR/
+- https://gdeyoung.shinyapps.io/Word_Prediction/
+- https://dguedo.shinyapps.io/CapstoneProject/
+
+
+
+
+
+
+
